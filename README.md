@@ -2,6 +2,7 @@
 This plugin will help to count the number of words will show as new column at posts.
 
 === Plugin Name ===
+
 Contributors: 		shashidharkumar
 
 Plugin Name:       	Post word count in admin
