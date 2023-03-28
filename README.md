@@ -1,5 +1,5 @@
 # post-word-count-in-admin-in-wordpress
-This plugin will help to count the number of words will show as new column at posts.
+This plugin will help to count the number of words will show as new column at posts in WordPress.
 
 === Plugin Name ===
 
