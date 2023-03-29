@@ -10,7 +10,6 @@ Donate link: 		http://www.shashidharkumar.com/donate/
 Tags: 			    Plugin, Posts, Post word count, Wordpress
 Requires at least: 	4.5
 Tested up to: 		6.1.1
-Stable tag: 		trunk
 Version:           	1.0
 License: 		    GPLv3 or later
 License URI: 		https://www.gnu.org/licenses/gpl-3.0.html
